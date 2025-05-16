@@ -6,3 +6,4 @@ As a guide to the data, users are referred to the article: [Sifnaios I., Furbo S
 
 #### Yearly reports of the storage operation
 * [2023](https://orbit.dtu.dk/en/publications/h%C3%B8je-taastrup-pit-thermal-energy-storage-2023-measurement-report)
+* [2024](https://orbit.dtu.dk/en/publications/h%C3%B8je-taastrup-pit-thermal-energy-storage-2024-measurement-report)
